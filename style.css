@@ -1,0 +1,38 @@
+body {
+  background-image: url("blueabstract.jpg");
+}
+
+.parentDiv {
+display: flex;
+justify-content: center;
+align-items: center;}
+
+h1
+{
+text-align:center;
+color:black;
+font-WELCOME TO MY PAGE:"Lucida Handwriting"
+}
+
+h1
+{
+text-align:center;
+color:black;
+font-My Biodata:"Lucida Handwriting"
+}
+
+video {
+  width: 50%;
+  height: auto;
+}
+
+<video width="400" controls>
+  <source src="aboutika.mp4" type="video/mp4">
+  <source src='aboutika" type="video/ogg">
+</video>
+
+
+
+
+
+
